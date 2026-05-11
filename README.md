@@ -1,4 +1,5 @@
-# Atividade 22: Semáforo Simples com Arduino 🚦
+# Atividade 22: Introdução ao Arduino no
+Tinkercad
 
 Este projeto foi desenvolvido como parte das atividades práticas do curso técnico em **Desenvolvimento de Sistemas do SENAI**. O objetivo é aplicar conhecimentos de lógica de programação e eletrônica básica para acender e apagar um LED utilizando a plataforma Arduino.
 
